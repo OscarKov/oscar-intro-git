@@ -1,2 +1,2 @@
-Estamos aplicando y practicando los conocimientos en Git.
+Vamos a poner en practica el conocimiento en Git.
 Tambien se utilizan repositorios remotos en Github o Gitlab.
